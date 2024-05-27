@@ -1,4 +1,4 @@
-#!usr/bin/env python3
+#!usr/bin/env python3.11
 # -*- coding: utf-8 -*-
 #需求：爬取搜狗首页的页面数据
 import requests
