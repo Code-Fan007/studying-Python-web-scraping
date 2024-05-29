@@ -8,7 +8,7 @@ if __name__=="_main__":
     headers={
         'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0'
     }
-    url ='https://www.sogou.com/web?query=%E8%8B%B9%E6%9E%9C&_ast=1716943638&_asf=www.sogou.com&w=01029901&p=40040100&dp=1&cid=&s_from=result_up&sut=3508&sst0=1716946443822&lkt=0%2C0%2C0&sugsuv=1716943631592577&sugtime=1716946443822'
+    url ='https://www.sogou.com/web'
     #处理url携带的参数：封装到字典中
     kw=input("enter a word:")
     param={
