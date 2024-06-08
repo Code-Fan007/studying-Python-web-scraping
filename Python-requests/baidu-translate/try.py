@@ -3,7 +3,7 @@
 import requests
 import json
 if __name__ == '__main__':
-# 破解百度翻译；1、post请求2、响应数据是一组json数据
+# 破解百度翻译；1、post请求2、响应数据、+6是一组json数据
     # 1.指定Url
     post_url = 'https://fanyi.baidu.com/sug'
     # 2.进行UA伪装
